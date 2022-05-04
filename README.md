@@ -3,7 +3,7 @@
 To get started with **Base Repository**, use Composer to add the package to your project's dependencies:
 
 ```bash
-    composer require TienPham30/base-repo
+    composer require eup/base-repo
 ```
 
 ## Configuration
