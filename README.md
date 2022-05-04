@@ -30,7 +30,7 @@ Next, you are ready to use repository. If you want create repository with Model 
 
 ```bash
 
-php artisan make:repostitory UserRepository -i
+php artisan make:repo UserRepository -i
 ```
 When run this commnand, Packeage automatic generate two file in forder Repository: UserRepository and UserRepositoryInterface. 
 UserRepository extends AbstractRepository so you can use method in AbstractRepository
